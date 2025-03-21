@@ -1,0 +1,8 @@
+name: spectral
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - python=3.12
+prefix: /Users/nikos/anaconda3/envs/spectral
